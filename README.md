@@ -1,4 +1,4 @@
-# FranciscoReyne EarthEngine Tools
+# Francisco-Reyne Earth Engine Tools
 Earth Engine Tools for Deeplearning and Generative AI Image Analysis 
 
 ### Explanation of Steps:
